@@ -1,3 +1,4 @@
 # jf-reactjs-tutorial
+Let's learn React!
 
-http://www.joshfinnie.com/blog/reactjs-tutorial-part-1/
+Using this tutorial: http://www.joshfinnie.com/blog/reactjs-tutorial-part-1/
